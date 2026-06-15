@@ -1,0 +1,85 @@
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.*
+
+# =========================
+# Python Cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Testing & Coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# IDE Settings
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Database Files
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# LangGraph / Agent Outputs
+# =========================
+outputs/
+reports/
+generated_reports/
+
+# =========================
+# Secrets
+# =========================
+secrets.json
+credentials.json
+
+# =========================
+# UV Files
+# =========================
+.python-version
+
+# Keep uv.lock tracked for reproducible builds
+# uv.lock

@@ -1,0 +1,62 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LangGraph (for ReAct Agents and Multi-Agent Workflow)
+langgraph
+
+# Mistral
+langchain-mistralai
+mistralai
+
+# Groq
+langchain-groq>=0.3.0
+
+# Search Tool
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
+
+# Data Handling
+pandas
+numpy
+
+# Validation
+pydantic
+
+# Async Support
+aiohttp
+httpx
+
+# Token Counting
+tiktoken
+
+# Logging & Utilities
+rich
+typing-extensions
+
+# Optional: Output Parsing
+jsonschema
+
+# Optional: Retry Mechanism
+tenacity
+
+# Optional: For Structured Outputs
+instructor
+
+# Optional: If you want document loading
+unstructured
+
+# Optional: PDF Research Support
+pypdf
+
+# Optional: HTML Parsing
+html5lib
