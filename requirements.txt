@@ -60,3 +60,7 @@ pypdf
 
 # Optional: HTML Parsing
 html5lib
+
+# Backend API (for UI)
+fastapi
+uvicorn[standard]
